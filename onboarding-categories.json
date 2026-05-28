@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tom-jerry",
+    "title": "Tom ve Jerry",
+    "caption": "Klasik kedi-fare kovalamacaları",
+    "image": "https://www.muzikogretmenleriyiz.biz/wp-content/smush-webp/2015/11/tom-y-jerry.jpg.webp",
+    "videos": [
+      "https://www.youtube.com/watch?v=wurbT0lbQ8E",
+      "https://www.youtube.com/watch?v=t0Q2otsqC4I"
+    ]
+  },
+  {
+    "id": "yogi-bear",
+    "title": "Ayı Yogi",
+    "caption": "Ormanda geçen komik maceralar",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7L8wm4-a5Jdtp1kMj7RoWHhdyv39vDbWwQ&s",
+    "videos": [
+      "https://www.youtube.com/watch?v=UHkExWT0LWc",
+      "https://www.youtube.com/watch?v=iDnsqq5XWWE"
+    ]
+  },
+  {
+    "id": "flintstones",
+    "title": "Çakmaktaşlar",
+    "caption": "Taş devrinde aile komedisi",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51b3Pfg%2BrkL._SX940_.jpg",
+    "videos": [
+      "https://www.youtube.com/watch?v=jvG_73IKvbQ",
+      "https://www.youtube.com/watch?v=raistVMBbF4"
+    ]
+  },
+  {
+    "id": "pokemon",
+    "title": "Pokemon",
+    "caption": "Canavar dostlarla aksiyon dolu bölümler",
+    "image": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
+    "videos": [
+      "https://www.youtube.com/watch?v=j4vrEtG8gOQ",
+      "https://www.youtube.com/watch?v=h6LFdBPjbf4"
+    ]
+  },
+  {
+    "id": "dennis",
+    "title": "Afacan Dennis",
+    "caption": "Mahallede geçen neşeli yaramazlıklar",
+    "image": "https://pbs.twimg.com/profile_images/1537009787480817665/UZcAnooi_400x400.jpg",
+    "videos": [
+      "https://www.youtube.com/watch?v=UHQ9AZiMrpc",
+      "https://www.youtube.com/watch?v=HKSOrJtaT1s"
+    ]
+  },
+  {
+    "id": "bugs-bunny",
+    "title": "Buggs Bunny",
+    "caption": "Mizah dolu kısa kaçış hikayeleri",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/04e4eebb8ca63def4da4cb07e96b8641b85d0df83a88e6eb72d14337da9120fc.jpg",
+    "videos": [
+      "https://www.youtube.com/watch?v=lkT9E__AgHg",
+      "https://www.youtube.com/watch?v=JfYeXO3z_mo"
+    ]
+  }
+]
