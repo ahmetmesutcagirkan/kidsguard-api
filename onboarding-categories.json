@@ -1,104 +1,119 @@
 [
   {
     "id": "tom-jerry",
-    "title": "Tom ve Jerry",
-    "caption": "Klasik kedi-fare kovalamacaları",
+    "title": {
+      "tr": "Tom ve Jerry",
+      "en": "Tom and Jerry"
+    },
     "image": "https://www.muzikogretmenleriyiz.biz/wp-content/smush-webp/2015/11/tom-y-jerry.jpg.webp",
     "videos": [
-      "https://www.youtube.com/watch?v=wurbT0lbQ8E",
-      "https://www.youtube.com/watch?v=t0Q2otsqC4I"
+      { "url": "https://www.youtube.com/watch?v=wurbT0lbQ8E", "audio": "any" },
+      { "url": "https://www.youtube.com/watch?v=t0Q2otsqC4I", "audio": "any" }
     ]
   },
   {
     "id": "yogi-bear",
-    "title": "Ayı Yogi",
-    "caption": "Ormanda geçen komik maceralar",
+    "title": {
+      "tr": "Ayı Yogi",
+      "en": "Yogi Bear"
+    },
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7L8wm4-a5Jdtp1kMj7RoWHhdyv39vDbWwQ&s",
     "videos": [
-      "https://www.youtube.com/watch?v=UHkExWT0LWc",
-      "https://www.youtube.com/watch?v=iDnsqq5XWWE"
+      { "url": "https://www.youtube.com/watch?v=UHkExWT0LWc", "audio": "any" },
+      { "url": "https://www.youtube.com/watch?v=iDnsqq5XWWE", "audio": "any" }
     ]
   },
   {
     "id": "flintstones",
-    "title": "Çakmaktaşlar",
-    "caption": "Taş devrinde aile komedisi",
+    "title": {
+      "tr": "Çakmaktaşlar",
+      "en": "The Flintstones"
+    },
     "image": "https://images-na.ssl-images-amazon.com/images/I/51b3Pfg%2BrkL._SX940_.jpg",
     "videos": [
-      "https://www.youtube.com/watch?v=jvG_73IKvbQ",
-      "https://www.youtube.com/watch?v=raistVMBbF4"
+      { "url": "https://www.youtube.com/watch?v=jvG_73IKvbQ", "audio": "any" },
+      { "url": "https://www.youtube.com/watch?v=raistVMBbF4", "audio": "any" }
     ]
   },
   {
     "id": "pokemon",
-    "title": "Pokemon",
-    "caption": "Canavar dostlarla aksiyon dolu bölümler",
+    "title": {
+      "tr": "Pokemon",
+      "en": "Pokemon"
+    },
     "image": "https://play-lh.googleusercontent.com/Qf2SJGpLxd9eu4CLWRrh2tfmmkncg7TQ2RNr44tWO07EBfhfMs4CHlizioym11Vb6RmfIWCNz6FNsOgHj_5dMA",
     "videos": [
-      "https://www.youtube.com/watch?v=j4vrEtG8gOQ",
-      "https://www.youtube.com/watch?v=h6LFdBPjbf4"
+      { "url": "https://www.youtube.com/watch?v=j4vrEtG8gOQ", "audio": "any" },
+      { "url": "https://www.youtube.com/watch?v=h6LFdBPjbf4", "audio": "any" }
     ]
   },
   {
     "id": "dennis",
-    "title": "Afacan Dennis",
-    "caption": "Mahallede geçen neşeli yaramazlıklar",
+    "title": {
+      "tr": "Afacan Dennis",
+      "en": "Dennis the Menace"
+    },
     "image": "https://pbs.twimg.com/profile_images/1537009787480817665/UZcAnooi_400x400.jpg",
     "videos": [
-      "https://www.youtube.com/watch?v=UHQ9AZiMrpc",
-      "https://www.youtube.com/watch?v=HKSOrJtaT1s"
+      { "url": "https://www.youtube.com/watch?v=UHQ9AZiMrpc", "audio": "any" },
+      { "url": "https://www.youtube.com/watch?v=HKSOrJtaT1s", "audio": "any" }
     ]
   },
   {
     "id": "bugs-bunny",
-    "title": "Buggs Bunny",
-    "caption": "Mizah dolu kısa kaçış hikayeleri",
+    "title": {
+      "tr": "Bugs Bunny",
+      "en": "Bugs Bunny"
+    },
     "image": "https://m.media-amazon.com/images/S/pv-target-images/04e4eebb8ca63def4da4cb07e96b8641b85d0df83a88e6eb72d14337da9120fc.jpg",
     "videos": [
-      "https://www.youtube.com/watch?v=lkT9E__AgHg",
-      "https://www.youtube.com/watch?v=JfYeXO3z_mo"
+      { "url": "https://www.youtube.com/watch?v=lkT9E__AgHg", "audio": "any" },
+      { "url": "https://www.youtube.com/watch?v=JfYeXO3z_mo", "audio": "any" }
     ]
   },
   {
     "id": "kids-songs",
-    "title": "Çocuk Şarkıları",
+    "title": {
+      "tr": "Çocuk Şarkıları",
+      "en": "Kids Songs"
+    },
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVccL1Jvb33AdhQUPkssHqDUv0JjQRDdGzc_Yq9lC0r8QY30IaFhHL0D-&s=10",
     "videos": [
-      "https://www.youtube.com/watch?v=bosJ-FJHGzI",
-      "https://www.youtube.com/watch?v=joY3YfH_c98",
-      "https://www.youtube.com/watch?v=t8moJLzPhoU",
-      "https://www.youtube.com/watch?v=9eDtL1qdz2s",
-      "https://www.youtube.com/watch?v=96D979igFI8",
-      "https://www.youtube.com/watch?v=mzieIMxgESY",
-      "https://www.youtube.com/watch?v=rGGZnh8W7Oo",
-      "https://www.youtube.com/watch?v=XqZsoesa55w",
-      "https://www.youtube.com/watch?v=CEkApcpB2to",
-      "https://www.youtube.com/watch?v=B6PvX_bzRYc",
-      "https://www.youtube.com/watch?v=vezo8b8YnwU",
-      "https://www.youtube.com/watch?v=PH90fAuY3YA",
-      "https://www.youtube.com/watch?v=wrqOealh-pU",
-      "https://www.youtube.com/watch?v=H2bRyZrYvMk",
-      "https://www.youtube.com/watch?v=pVMOF9ahjog",
-      "https://www.youtube.com/watch?v=vs2VwIMmTlw",
-      "https://www.youtube.com/watch?v=o8W4LXM_mxs",
-      "https://www.youtube.com/watch?v=W-eXgs1i13w",
-      "https://www.youtube.com/watch?v=Mitl_C5BS7Q",
-      "https://www.youtube.com/watch?v=Idg9iq1yiIs",
-      "https://www.youtube.com/watch?v=FrG0FTXiS5M",
-      "https://www.youtube.com/watch?v=-Hz8BJ7PjCA",
-      "https://www.youtube.com/watch?v=0VTwemTMTDE",
-      "https://www.youtube.com/watch?v=EiSFdzAc9fY",
-      "https://www.youtube.com/watch?v=3_wJvd6WUzQ",
-      "https://www.youtube.com/watch?v=7sKul9vXpPg",
-      "https://www.youtube.com/watch?v=2M2iNC_5L2I",
-      "https://www.youtube.com/watch?v=fjraMkJtHBQ",
-      "https://www.youtube.com/watch?v=YWEFgvCHBJ4",
-      "https://www.youtube.com/watch?v=d3nxYCqT6fc",
-      "https://www.youtube.com/watch?v=Mg7I0mgwQ7U",
-      "https://www.youtube.com/watch?v=0LUF690eM8M",
-      "https://www.youtube.com/watch?v=0arQYWxkeAw",
-      "https://www.youtube.com/watch?v=ub19SUKNUq4",
-      "https://www.youtube.com/watch?v=wJ1pCFQ5noM"
+      { "url": "https://www.youtube.com/watch?v=bosJ-FJHGzI", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=joY3YfH_c98", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=t8moJLzPhoU", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=9eDtL1qdz2s", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=96D979igFI8", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=mzieIMxgESY", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=rGGZnh8W7Oo", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=XqZsoesa55w", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=CEkApcpB2to", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=B6PvX_bzRYc", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=vezo8b8YnwU", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=PH90fAuY3YA", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=wrqOealh-pU", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=H2bRyZrYvMk", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=pVMOF9ahjog", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=vs2VwIMmTlw", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=o8W4LXM_mxs", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=W-eXgs1i13w", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=Mitl_C5BS7Q", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=Idg9iq1yiIs", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=FrG0FTXiS5M", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=-Hz8BJ7PjCA", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=0VTwemTMTDE", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=EiSFdzAc9fY", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=3_wJvd6WUzQ", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=7sKul9vXpPg", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=2M2iNC_5L2I", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=fjraMkJtHBQ", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=YWEFgvCHBJ4", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=d3nxYCqT6fc", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=Mg7I0mgwQ7U", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=0LUF690eM8M", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=0arQYWxkeAw", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=ub19SUKNUq4", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=wJ1pCFQ5noM", "audio": "tr" }
     ]
   }
 ]
