@@ -18,8 +18,8 @@
     },
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7L8wm4-a5Jdtp1kMj7RoWHhdyv39vDbWwQ&s",
     "videos": [
-      { "url": "https://www.youtube.com/watch?v=UHkExWT0LWc", "audio": "any" },
-      { "url": "https://www.youtube.com/watch?v=iDnsqq5XWWE", "audio": "any" }
+      { "url": "https://www.youtube.com/watch?v=UHkExWT0LWc", "audio": "tr" },
+      { "url": "https://www.youtube.com/watch?v=iDnsqq5XWWE", "audio": "tr" }
     ]
   },
   {
